@@ -1,0 +1,22 @@
+@import "../../../../shared/styles/variables.less";		
+@import "../../../../shared/styles/classes.less";
+@import '../../../../shared/styles/media-layout.css';
+
+.fullPagePopup{ .pos(absolute); .zi(11); .bgGrad1; .mT(8px); .p(2em) }
+.wrapper {
+  .mxW(@centerWrapperWidth); .mA; .pos; .p(0px 15px);
+  .headerWrapper > * { .c; }
+  .searchBarWrapper{
+    span.p-autocomplete.p-component{
+      .showDropDownOption{
+        display: block !important; .op(1); .zi(1)
+      }
+    }
+  }
+  .footerWrapper{
+    .bgGrad1; .ta(right); color:white;
+  }
+}
+.wrapper > *, .headerWrapper > * { .pos; .fofa; }
+
+

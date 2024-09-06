@@ -1,0 +1,17 @@
+[
+  {
+    "key": "required-tables",
+    "value": [{"name": "menu", "version": "0.0.1"}, {"name": "featuredpage", "version": "0.0.1"}],
+    "modified_date": "a-date"
+  },
+  {
+    "key": "b-key",
+    "value": "b-value",
+    "modified_date": "b-date"
+  },
+  {
+    "key": "c-key",
+    "value": "c-value",
+    "modified_date": "c-date"
+  }
+]

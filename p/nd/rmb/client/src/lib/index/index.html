@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="js-es-ng-node-express-mongo">
+    <base href="./" />
+    <title>index = html</title>
+    <script>var cmsDistributionMode = false; window["cmsDistributionMode"] = cmsDistributionMode; </script>
+    <style>
+      div.overlayWrapper { z-index:99;
+  position:fixed; top: 0; left: 0px;  height: calc(100%);  width: calc(100%); background: Gainsboro; 
+}
+div.appLoadingOverlay { 
+        display: flex; flex-wrap: wrap; box-sizing: border-box; height: 100%; width: 100%;
+        flex-direction: column; color: dimgray; align-content: center; justify-content: center;
+      }
+      div.appLoadingOverlayRow {
+        padding: 0px; margin: 0px; text-align: center; 
+        font-size: 2em; padding: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+  </noscript>
+  <!-- <body> -->
+    <div id="app"></div>
+    <div class="overlayWrapper" id="overlayWrapper">
+      <div class="appLoadingOverlay" id="appLoadingOverlay">
+        <div class="appLoadingOverlayRow" id="appLoadingOverlayRow">
+          Loading...
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "key": "required-tables",
+    "value": "[{\"name\":\"menu\",\"version\":\"0.0.0\",\"id\":1},{\"name\":\"featuredpage\",\"version\":\"0.0.0\",\"id\":2},{\"name\":\"searchKeys\",\"version\":\"0.0.0\",\"id\":3}]",
+    "modified_date": "a-date"
+  },
+  {
+    "id": "2",
+    "key": "b-key",
+    "value": "b-value",
+    "modified_date": "b-date"
+  }
+]

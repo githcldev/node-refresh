@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <base href="indexR/" />
+    <title>
+      index = ejs
+      <% if(!htmlWebpackPlugin.options.title && title){ %> :: <%= title %><% } %>
+    </title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <script>var cmsDistributionMode = true; window["cmsDistributionMode"] = cmsDistributionMode; </script>
+    <!-- <link rel="icon" type="image/x-icon" href="./assets/layout/images/favicon.ico"> -->
+   <style>
+      div.overlayWrapper { z-index:99;
+  position:fixed; top: 0; left: 0px;  height: calc(100%);  width: calc(100%); background: Gainsboro; 
+}
+div.appLoadingOverlay { 
+        display: flex; flex-wrap: wrap; box-sizing: border-box; height: 100%; width: 100%;
+        flex-direction: column; color: dimgray; align-content: center; justify-content: center;
+      }
+      div.appLoadingOverlayRow {
+        padding: 0px; margin: 0px; text-align: center; 
+        font-size: 2em; padding: 0px;
+      }
+    </style>
+  </head>
+  <body class="<% if(!htmlWebpackPlugin.options.title && id){ %><%= id %>" id="page_id_<%= id %><% } %>">
+    <noscript>
+      You need to enable JavaScript to run this app.
+  </noscript>
+  <!-- <body> -->
+    <div class="overlayWrapper" id="overlayWrapper">
+      <div class="appLoadingOverlay" id="appLoadingOverlay">
+        <div class="appLoadingOverlayRow" id="appLoadingOverlayRow">
+          asfd
+        </div>
+      </div>
+    </div>
+    <div id="app"></div>
+  </body>
+</html>
