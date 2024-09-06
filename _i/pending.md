@@ -1,12 +1,14 @@
-nodejs
+nd
     handle csv data stream in
         duplex, readable, writeable, transform (sugar over duplex)
         ref: rmb-repos
-    jwt
+    jwt crypto, bcrypt, 
         ref: rmb-repos
     request lifecycle event
         callback, process.next, setImmediate, setTimeout, setInterval
     http methods diff
+
+    express, nextjs
 
 react
     useContext
@@ -31,12 +33,16 @@ MongoDb:
     aggregation, groupBy, orderBy
 
 Oracle:
-    pl/sql, joins
+    pl/sql, joins, stream, 
     sequilize package
 
 js
     all common used Promise lib api
     loop questions
+
+    ionic, ng, react, react-native, vue
+
+    emmet, bootstrap, 
 
 
 
