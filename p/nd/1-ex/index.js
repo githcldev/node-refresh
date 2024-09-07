@@ -20,8 +20,6 @@ app.get('/req2', (req, res) => {  // request lifecycle 1
   start();
 });
 app.get('/req1', (req, res) => {  // request lifecycle 1
-
-  // index.js code lifecycle flow
   console.log('start')
   setTimeout(() => console.log('setTimeout 1 with 0'), 0)
   setTimeout(() => console.log('setTimeout 2 with 10'), 10)
@@ -47,7 +45,6 @@ app.get('/req1', (req, res) => {  // request lifecycle 1
   setImmediate(() => console.log('setImmediate'))
   process.nextTick(() => { console.log('nextTick') });
   console.log('end')
-
 });
 
 app.listen(PORT, () => console.log(`Example app listening on port ${PORT}`));
