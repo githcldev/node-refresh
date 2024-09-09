@@ -1,0 +1,314 @@
+.allWorkTasks{
+  .TODO: : {
+    we will just call transaction from our viewController
+
+    viewController will send bulk trasaction which may need
+      to be performed in sequence or in parallel
+
+    transaction will manage sequence/parallel request object
+    transaction will pass single crud to connection
+
+    connection with connect
+      if success connect
+        create session
+
+    session will check user and userPermission
+    -------------------------------------------------
+      dbServer ( because there could be multiple db server )
+      dbConnection ( because there could be multiple ways to connect )
+      dbUser
+      dbUserPermission
+      dbUserSession
+      dbCollection
+      dbCrud
+      -------------------------------------------------
+      node-server prepare setup for :
+          passport-user-auth,
+          mongoDB user authentications,
+          db user => permission => session => transaction
+          nodemailer,	pm2
+      set json header, 
+      user signup
+      user signin
+      socket.io
+      mongo db
+      using stream for read/write file operations
+      thank you page
+      implement directives/pipes for ng
+      "open sans", Helvetica, arial, sans-serif
+      new custom theme black/white
+      lazy load for footer and menu component
+      auto page reload not working from webpack-serve
+      https: //www.primefaces.org/primeng/#/panelmenu
+      https: //www.primefaces.org/primeng/#/menubar
+  }
+  .done{
+      passing validators through directive
+      error pages error 404/503 and other status code handling
+      seperate api router with seperate module
+      new important used npm modules added stream, util, pm2, etc.
+      readme.md to link all available module and links
+      reset fileDB with new data
+      explicitly use async/await for all fileInteration and async functionality
+      file db
+      index page
+      reactiveForm
+      import primeIcons
+      show signUp form
+      pcheckbox not working
+  }
+}
+.client{}
+.common{
+    .TODO{
+        module wise distrution of build environment
+        --module login cmdFlags usage for distribution of build modules
+        usage of json files for each module to store file path and other build configurations
+  }
+}
+.server{
+  .TODO{
+      .js-es6-async{
+          callback
+          promise
+          promisify
+          Concurrent Execution
+          Parallel Execution
+          async/await
+    }
+      try/catch/finally
+      v8
+      app.use(bodyParser.urlencoded({extended: false
+    }))
+      var io = require('socket.io')(http)
+      var mongoose = require('mongoose')
+      .fs{
+          readFile
+          writeFile
+          appendFile
+          existsSync
+          mkdir
+          rmdir
+          unlinkSync
+          unlink
+          renameSync
+          rename
+          readdirSync
+          createReadSync
+          createWriteSync
+              highWaterMark
+              'drain' event
+          readStream
+              .pause
+              .resume
+              .read
+          writeStream
+          .pipe(...)
+          fileStats
+    }
+      https.request(url,(data))
+      fileserver
+      res.writeHead
+      duplex
+      passthrough
+      transformStream
+      cors
+      ws
+      parsing forms
+      .pattern{
+          singleton
+          prototype
+    }
+  }
+  .config{
+      express-server =  root file
+      node-core-server = old node based server
+      nodemon = nodemon config file
+      nodeVariable = cache variables
+  }
+  .db{
+      .fs{
+        posts = file for writing posts
+        sample-big-data = sample data big file
+        sample-mid-data = sample data mid file
+    }
+      .collecObj.__proto__{
+        // https://mongodb.github.io/node-mongodb-native/2.2/api/Collection.html
+        aggregate:function (pipeline, options, callback)
+        bulkWrite:function (operations, options, callback)
+        collectionName:TypeError: Cannot read property 'name' of undefined
+        constructor:function Collection(db, topology, dbName, name, pkFactory, options)
+        count:function deprecated(...args)
+        countDocuments:function (query, options, callback)
+        createIndex:function (fieldOrSpec, options, callback)
+        createIndexes:function (indexSpecs, options, callback)
+        dbName:TypeError: Cannot read property 'dbName' of undefined
+        deleteMany:function (filter, options, callback)
+        deleteOne:function (filter, options, callback)
+        distinct:function (key, query, options, callback)
+        drop:function (options, callback)
+        dropAllIndexes:function deprecated(...args)
+        dropIndex:function (indexName, options, callback)
+        dropIndexes:function (options, callback)
+        ensureIndex:function deprecated(...args)
+        estimatedDocumentCount:function (options, callback)
+        find:function deprecated()
+        findAndModify:function deprecated(...args)
+        findAndRemove:function deprecated(...args)
+        findOne:function deprecated()
+        findOneAndDelete:function (filter, options, callback)
+        findOneAndReplace:function (filter, replacement, options, callback)
+        findOneAndUpdate:function (filter, update, options, callback)
+        geoHaystackSearch:function (x, y, options, callback)
+        getLogger:function ()
+        group:function deprecated(...args)
+        hint:TypeError: Cannot read property 'collectionHint' of undefined
+        indexes:function (options, callback)
+        indexExists:function (indexes, options, callback)
+        indexInformation:function (options, callback)
+        initializeOrderedBulkOp:function (options)
+        initializeUnorderedBulkOp:function (options)
+        insert:function deprecated(...args)
+        insertMany:function (docs, options, callback)
+        insertOne:function (doc, options, callback)
+        isCapped:function (options, callback)
+        listIndexes:function (options)
+        mapReduce:function (map, reduce, options, callback)
+        namespace:TypeError: Cannot read property 'namespace' of undefined
+        options:function (opts, callback)
+        parallelCollectionScan:function (options, callback)
+        readConcern:TypeError: Cannot read property 'readConcern' of undefined
+        reIndex:function (options, callback)
+        remove:function deprecated(...args)
+        removeMany:function (filter, options, callback)
+        removeOne:function (filter, options, callback)
+        rename:function (newName, options, callback)
+        replaceOne:function (filter, doc, options, callback)
+        save:function deprecated(...args)
+        stats:function (options, callback)
+        update:function deprecated(...args)
+        updateMany:function (filter, update, options, callback)
+        updateOne:function (filter, update, options, callback)
+        watch:function (pipeline, options)
+        writeConcern:TypeError: Cannot read property 'writeConcern' of undefined
+    }
+      .dbConnect.__proto__ has following{
+          close:function (force, callback)
+          connect:function (callback)
+          constructor:function MongoClient(url, options)
+          db:function (dbName, options)
+          getLogger:function ()
+          isConnected:function (options)
+          logout:function (options, callback)
+          startSession:function (options)
+          watch:function (pipeline, options)
+          withSession:function (options, operation)
+    }
+      .dbObj.__proto__ has following methods{
+        // https://mongodb.github.io/node-mongodb-native/2.2/api/Db.html
+          addChild:function (db)
+          addUser:function (username, password, options, callback)
+          admin:function ()
+          collection:function (name, options, callback)
+          collections:function (options, callback)
+          command:function (command, options, callback)
+          constructor:function Db(databaseName, topology, options)
+          createCollection:function deprecated()
+          createIndex:function (name, fieldOrSpec, options, callback)
+          dropCollection:function (name, options, callback)
+          dropDatabase:function (options, callback)
+          ensureIndex:function deprecated(...args)
+          eval:function deprecated(...args)
+          executeDbAdminCommand:function (selector, options, callback)
+          getLogger:function ()
+          indexInformation:function (name, options, callback)
+          listCollections:function (filter, options)
+          options:TypeError: Cannot read property 'options' of undefined
+          profilingInfo:function deprecated(...args)
+          profilingLevel:function (options, callback)
+          removeUser:function (username, options, callback)
+          renameCollection:function (fromCollection, toCollection, options, callback)
+          setProfilingLevel:function (level, options, callback)
+          slaveOk:TypeError: Cannot read property 'options' of undefined
+          stats:function 
+          topology:TypeError: Cannot read property 'topology' of undefined
+          unref:function ()
+          watch:function (pipeline, options)
+          writeConcern
+    }
+  }
+
+
+  .modules{
+      .crudForm{
+          .fileSystem/route.js ${host
+      }/fs{
+              ${host
+        }/fs = get all data from db/post.json
+              /trs = testReadWriteStream
+              /create = push record in db/post.json
+              /read/:field/:value = read record from db/post.json
+                  where { field: value
+        }
+              /delete/:field/:value = read record from db/post.json
+                  where { field: value
+        }
+              /update/:searchField/:searchValue/:changeField/:newValue = 
+                  update record of db/post.json where
+                      { searchField: searchVvalue
+        }
+                      to { changeField: newValue
+        }
+              /resetdata = reset all records of db/post.json from db/sample-big-data.json
+      }
+          .mongodb/route.js  ${host
+      }/db{
+              trs = testReadWriteStream
+              file = get all data from post collection
+              create = push record in post collection
+              read/:field/:value = read record from post collection
+                  where { field: value
+        }
+              delete/:field/:value = read record from post collection
+                  where { field: value
+        }
+              update/:searchField/:searchValue/:changeField/:newValue
+                  update record of post collection where
+                      { searchField: searchVvalue
+        }
+                      to { changeField: newValue
+        }
+              resetdata
+                  reset all records of db/post.json from db/sample-big-data.json
+      }
+    }
+        .index{
+            .route.js{}
+    }
+        .login{
+            .route.js{}
+    }
+        .protectedRoutes{
+            .route.js{}
+            .view.ejs{}
+    }
+        .publicApi{
+            .login{
+                .route.js{}
+      }
+            .userCrud{
+                .route.js{}
+      }
+    }
+        .test{
+            .route.js{}
+            .view.ejs{}
+    }
+        .view-partials{
+            .footer.ejs{}
+            .header.ejs{}
+    }
+      .view.js
+  }
+    .services{}
+}

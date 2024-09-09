@@ -1,0 +1,17 @@
+[
+  {
+    "key": "a-key",
+    "value": "0",
+    "modified_date": "a-date"
+  },
+  {
+    "key": "b-key",
+    "value": "0",
+    "modified_date": "b-date"
+  },
+  {
+    "key": "c-key",
+    "value": "0",
+    "modified_date": "c-date"
+  }
+]

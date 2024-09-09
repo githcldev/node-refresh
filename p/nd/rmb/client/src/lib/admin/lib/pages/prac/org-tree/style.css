@@ -1,0 +1,6 @@
+.tree-parent{
+  height: 400px;
+  /* height: calc(100% - (50px + 50px));
+  height: -moz-calc(100% - (50px + 50px));
+  height: -webkit-calc(100% - (50px + 50px)); */
+}

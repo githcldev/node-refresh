@@ -1,0 +1,50 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "noEmitHelpers": true,
+    "importHelpers": true,
+    "strictNullChecks": false,
+    "lib": [
+      "es2015",
+      "dom"
+    ],
+    "baseUrl": "./client/src/lib/aot3",
+    "paths": {
+      "@angular/*": ["../../../../node_modules/@angular/*"]
+    },
+    "typeRoots": [
+      "./node_modules/@types"
+    ],
+    "types": [
+      "hammerjs",
+      "jasmine",
+      "node"
+    ]
+  },
+  "include": [
+      "client/src/lib/aot3/*.browser.ts",
+      "client/src/lib/aot3/app/**/**/*.module.ts"
+  ],
+  "exclude": [
+    "common",
+    "config",
+    "dist",
+    "node_modules",
+    "server",
+    "src"
+  ],
+  "angularCompilerOptions": {
+    "skipMetadataEmit": true
+  },
+  "compileOnSave": false,
+  "buildOnSave": false,
+  "atom": {
+    "rewriteTsconfig": false
+  }
+}

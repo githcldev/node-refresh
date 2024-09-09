@@ -1,0 +1,63 @@
+<form *ngIf="showForm" [formGroup]="userLoginForm" novalidate (ngSubmit)="hit()">
+  <span class="ui-inputgroup mt-10 mv-10">
+      <span class="ui-inputgroup-addon"><fa-icon [icon]="userLoginForm.controls.username.icon"></fa-icon></span>
+      <input id="float-input" formControlName="username" r-input-d placeholder="{{userLoginForm.controls.username.placeholder}}">
+  </span>
+  <span class="errorMessage" *ngIf="userLoginForm.controls.username.errors !== null && userLoginForm.controls.username.errors.newUser">
+      {{userLoginForm.controls.username.errors.newUser}}</span>
+  <span class="errorMessage" *ngIf="userLoginForm.controls.username.errors !== null && userLoginForm.controls.username.errors.alreadyUser">
+      {{userLoginForm.controls.username.errors.alreadyUser}}</span>
+  <span class="errorMessage" *ngIf="userLoginForm.controls.username.errors !== null && userLoginForm.controls.username.errors.minlength">
+      Must be at least {{userLoginForm.controls.username.errors.minlength.requiredLength}} letters</span>
+  <span class="errorMessage" *ngIf="userLoginForm.controls.username.errors !== null && !!userLoginForm.controls.username.errors.maxlength">
+      Max number of letters allowed are {{userLoginForm.controls.username.errors.maxlength.requiredLength}}</span>
+  <span class="errorMessage"
+      *ngIf="userLoginForm.controls.username.errors !== null && !!userLoginForm.controls.username.errors.required && (userLoginForm.controls.username.touched || userLoginForm.controls.username.dirty)">
+      Username Required!</span>
+  <div formArrayName="newUserInfo">
+      <span [ngClass]="{'ui-inputgroup': ['text','email'].indexOf(item.type) !== -1, 'formField': ['text','email'].indexOf(item.type) === -1, 'w100': ['checkbox','radio'].indexOf(item.type) !== -1}" class="mt-10 mv-10"
+          *ngFor="let item of userLoginForm.controls.newUserInfo.controls; let i = index;">
+          <span *ngIf="['text','email'].indexOf(item.type) !== -1" class="ui-inputgroup-addon">
+              <fa-icon [icon]="item.icon"></fa-icon></span>
+          <input *ngIf="['text','email'].indexOf(item.type) !== -1" id="float-input"
+              class="ui-inputtext ui-state-default ui-widget"
+              name="{{item.name}}"
+              type="{{item.type}}"
+              [formControl]="item"
+              placeholder="{{item.placeholder}}">
+          <p-calendar [formControl]="item" *ngIf="item.type === 'date'"
+              placeholder="{{item.placeholder}}"
+              [showIcon]="true" dateFormat="dd-M-yy"></p-calendar>
+          <p-checkbox [formControl]="item" *ngIf="item.type === 'checkbox'"
+              name="{{item.value}}" binary="true" value="{{item.value}}"
+              label="{{item.placeholder}}"></p-checkbox>
+          <!-- TODO: custom validator for atLeastOneRequired -->
+          <!--   binary="true"  (click)="radioChange(item)" -->
+          <p-radioButton *ngIf="item.type === 'radio'" (click)="levelChange(item.name, item.placeholder)"
+              inputId="{{item.name}}" label="{{item.placeholder}}" binary="true"
+              name="{{item.name}}" value="{{item.value}}" [formControl]="item"></p-radioButton>
+          <p-dropdown *ngIf="selectMenu"
+              [options]="cities"
+              [formControl]="item"></p-dropdown>
+      </span>
+  </div>
+  <div class="ui-g signUpCheckbox">
+      <div class="ui-g-12">
+          <p-checkbox binary="true" formControlName="signUpCheck"
+              label="New user? Sign up"></p-checkbox>
+      </div>
+  </div>
+  <p-footer class="ui-g">
+          <button 
+              *ngIf="!userLoginForm.controls.signUpCheck.value" type="button" 
+              class="ui-button ui-button-success w100 p6 ui-g-12" type="submit">
+              <fa-icon aria-hidden="true" [icon]="faSignInAlt"></fa-icon> Sign In
+          </button>
+          <!-- TODO: [disabled]="userLoginForm.invalid"  -->
+          <button 
+              *ngIf="!!userLoginForm.controls.signUpCheck.value" 
+              class="ui-button ui-button-info w100 p6 ui-g-12" type="submit">
+              <fa-icon aria-hidden="true" [icon]="faPlus"></fa-icon> Sign Up
+          </button>
+  </p-footer>
+</form>
