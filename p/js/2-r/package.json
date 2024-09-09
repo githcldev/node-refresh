@@ -1,0 +1,47 @@
+{
+  "name": "2-r",
+  "description": "Boss Lite - React Redux Material Admin Template",
+  "version": "1.0.0",
+  "main": "./src/server/start.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilhammeidi/boss-lite.git"
+  },
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "run-p dev:client:build dev:server:prepare dev:server:build dev:server:delay",
+    "dev:server:prepare": "universal-webpack --settings ./webpack/universal-webpack-settings.json prepare",
+    "dev:server:build": "webpack --config ./webpack/webpack.config.server.development.babel.js --watch --colors --display-error-details",
+    "dev:server:delay": "run-s delay dev:server:start",
+    "dev:server:start": "concurrent --kill-others \"nodemon ./src/server/start.js --exec babel-node --watch ./static\"",
+    "dev:client:build": "babel-node ./webpack/webpack-dev-server.js",
+    "delay": "node ./node_modules/npm-delay 15000",
+    "prod": "run-s prod:client:build prod:server:build prod:server:start",
+    "prod:client:build": "NODE_ENV=production webpack --config ./webpack/webpack.config.client.production.babel.js --colors --display-error-details",
+    "prod:server:build": "NODE_ENV=production webpack --config ./webpack/webpack.config.server.production.babel.js --colors --display-error-details",
+    "prod:server:start": "NODE_ENV=production babel-node ./src/server/start.js",
+    "heroku-postbuild": "run-p prod:client:build prod:server:build",
+    "lint": "eslint -c .eslintrc src",
+    "test": "NODE_ENV=test jest --config jestconfig.json",
+    "watch:test": "NODE_ENV=test jest --watch --config jestconfig.json",
+    "i": "npm install"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack",
+    "css-modules",
+    "react-router",
+    "react-router-dom"
+  ],
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    
+  },
+  "engines": {
+    "node": "^8.9.1"
+  }
+}
