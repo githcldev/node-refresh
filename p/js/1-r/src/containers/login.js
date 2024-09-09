@@ -14,6 +14,10 @@ import { CheckToken } from "../library/helper";
 import { authenticateUser } from "../library/store/authentication";
 import { useDispatch } from "react-redux";
 
+function TestComp() {
+  return null
+}
+
 export default function LoginPage() {
   const history = useHistory();
   const dispatch = useDispatch();
@@ -49,6 +53,7 @@ export default function LoginPage() {
 
   return (
     <div className="form-box">
+      <TestComp />
       <div className="fullHeight p-ai-center p-d-flex p-jc-center">
         <div className="shadow card m-3 px-3 py-4 px-sm-4 py-sm-5">
           <h4 className="text-center">Sign in to App</h4>

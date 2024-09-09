@@ -7,6 +7,7 @@ node version
         as zip also, try it!
 
 nd
+    node server error types
     handle csv data stream in
         duplex, readable, writeable, transform (sugar over duplex)
         ref: rmb-repos
