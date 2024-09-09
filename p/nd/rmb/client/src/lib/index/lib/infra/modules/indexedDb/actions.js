@@ -1,1 +1,0 @@
-export const GET_ALL_IDB_TBL_DT = 'GET_ALL_IDB_TBL_DT'
