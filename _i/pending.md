@@ -76,5 +76,5 @@ js
 
     emmet, bootstrap, 
 
-
+    json-server npm for json crud dev purpose
 
