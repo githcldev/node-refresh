@@ -1,0 +1,18 @@
+{% extends "master.html" %}
+{% block title %}
+  My Tennis Club - Test 2
+{% endblock %}
+
+{% block content %}
+  <p><a href="/">HOME</a></p>
+  <ul>
+    {% for x in mymembers %}
+      <li>{{ x }}</li>
+    {% endfor %}
+  </ul>
+  <p>myDt2 where firstname is Emil: {{myDt2}}</p>
+  <p>myDt3 where firstname startswith L : {{myDt3}}</p>
+  <p>myDt4 where joined_date__year='2024': {{myDt4}}</p>
+  <p>myDt5 where lastname='Refsnes', id=2 : {{myDt5}}</p>
+{% endblock %}
+

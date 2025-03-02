@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  {% for fruit in fruits %}
+    {% if forloop.first %}
+      {% for fruit in fruits %}
+        fruit = {{ fruit }}
+        forloop.counter = {{forloop.counter}},
+        forloop.counter0 = {{forloop.counter0}},
+        forloop.first = {{forloop.first}},
+        forloop.last = {{forloop.last}},
+        forloop.parentloop = {{forloop.parentloop}},
+        forloop.revcounter = {{forloop.revcounter}},
+        forloop.revcounter0 = {{forloop.revcounter0}}, <br /> <br />
+      {% empty %}
+        <i>Empty list of fruits</i>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+
+  {% with firstname="Lano" %}
+  <h1>template variable with firstname as {{ firstname }}</h1>
+  {% endwith %}
+
+  <p>In views.py you can see what the fruits variable looks like.</p>
+  {% include 'footer.html' %}
+</body>
+
+</html>
