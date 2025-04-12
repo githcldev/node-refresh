@@ -22,21 +22,30 @@ async def cancel_task(task):
 async def main():
     # create the coroutine
     try:
+        print(1)
         coro = simple_task(1)
+        print(2)
         # create a task
         task = asyncio.create_task(coro)
+        print(3)
         # created the shielded task
         shielded = asyncio.shield(task)
+        print(4)
         # create the task to cancel the previous task
         asyncio.create_task(cancel_task(shielded))
+        # await cancel_task(shielded)
+        print(5)
         # handle cancellation
         # await the shielded task
         result = await shielded
+        print(6)
         # report the result
         print(f'>got: {result}')
     except asyncio.CancelledError:
+        print(11)
         print('shielded was cancelled')
     except Exception as exc:
+        print(12)
         print(exc)
     # wait a moment
     await asyncio.sleep(1)
