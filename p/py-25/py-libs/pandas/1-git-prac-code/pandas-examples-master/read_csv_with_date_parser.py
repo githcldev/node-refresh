@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 data = r"""store,year,month,day,sales
 1,2018,Mon01,D01,100

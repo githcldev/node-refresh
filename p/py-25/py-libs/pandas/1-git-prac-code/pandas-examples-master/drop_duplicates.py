@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 df = pd.DataFrame({
     'A': [1, 1, 2, 3, 3],

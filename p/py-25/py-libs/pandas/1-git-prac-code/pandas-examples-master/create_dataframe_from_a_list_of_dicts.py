@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 list_of_dicts = [
     {
@@ -17,5 +18,6 @@ list_of_dicts = [
         'weather': 'rain'
     }
 ]
+
 df = pd.DataFrame(list_of_dicts)
 print(df)

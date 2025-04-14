@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 from sklearn import preprocessing
 
 str_data = r"""match,result

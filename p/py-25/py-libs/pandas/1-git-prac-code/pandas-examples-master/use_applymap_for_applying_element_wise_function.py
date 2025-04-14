@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 fruit_price = r"""product,unit_price,total_price
 apple,"$1.56","$1,234,567"

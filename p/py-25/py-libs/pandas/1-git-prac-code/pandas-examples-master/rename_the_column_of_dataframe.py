@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 # rename all the column names
 fruit_price = r"""A,B,C

@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 str_data = r""",-,-,-,-
 city,2018-01-01,2018-01-02,2018-01-03

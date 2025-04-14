@@ -1,5 +1,6 @@
 import pandas.util.testing as tm
 import pandas as pd
+from io import StringIO
 from dateutil.relativedelta import relativedelta, FR
 import matplotlib.pyplot as plt
 

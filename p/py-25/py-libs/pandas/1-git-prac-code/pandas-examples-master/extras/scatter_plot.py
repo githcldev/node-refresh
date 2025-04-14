@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import pandas as pd
+from io import StringIO
 
 str_data = r"""
 a,b,c,d

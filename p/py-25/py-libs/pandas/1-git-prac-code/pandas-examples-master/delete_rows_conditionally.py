@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 # data
 data = r"""

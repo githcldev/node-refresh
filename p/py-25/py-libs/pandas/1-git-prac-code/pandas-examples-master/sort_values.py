@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 data = r"""
 date,col_str,col_int
 2018-03-05,sunny,10

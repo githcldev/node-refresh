@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 str_data = r"""
 date,sales

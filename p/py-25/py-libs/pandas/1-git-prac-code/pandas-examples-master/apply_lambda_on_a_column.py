@@ -1,4 +1,5 @@
 import pandas as pd
+from io import StringIO
 
 city = r"""city,state
 sydney,nsw
