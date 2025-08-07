@@ -1,5 +1,4 @@
 
-
 . devops + azure pipelines + data factory + databricks + python + spark + hdfs + OUTPUT_DEST {
 	. Azure Data Factory {
 P:\local\hcl-percipio\19-7-2025-a
@@ -54,7 +53,6 @@ P:\local\2-TECH-BACK\9-DEPLOY\41-AZURE\DEVOPS\Learning-Azure-DevOps
 }
 
 	}
-	
 	. ds {
 DATA-SCIENCE	CORE		Data Science Foundations Data Engineering	2
 	}
@@ -73,3 +71,4 @@ https://www.tutorialsteacher.com/python
 https://www.tutorialspoint.com/python/python_interview_questions.htm
 	}
 }
+
