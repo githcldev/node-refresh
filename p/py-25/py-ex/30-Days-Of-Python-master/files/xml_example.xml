@@ -1,11 +1,3 @@
-<?xml version="1.0"?>
-<person gender="male">
-  <name>Asabeneh</name>
-  <country>Finland</country>
-  <city>Helsinki</city>
-  <skills>
-    <skill>JavaScrip</skill>
-    <skill>React</skill>
-    <skill>Python</skill>
-  </skills>
-</person>
+version https://git-lfs.github.com/spec/v1
+oid sha256:d20592f10ca52e6a2f95c6f343845318c9c773fe3843cf0a9f9424dd5e9b452c
+size 234

@@ -1,6 +1,3 @@
-dates,day,wind-speed,temp
-02-01-12,sunny,12,45
-03-01-12,rainy,34,46
-04-01-12,hot,45,47
-05-01-12,sunny,56,48
-06-01-12,hot,67,49
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e9cf314a593884aa84b4577a9ab1e252be4aa041e8a9e511bdc8182165c99bc
+size 133

@@ -42,13 +42,32 @@ Thumbs.db
 *.war
 
 # Large media files
-*.mp4
-*.tiff
-*.avi
-*.flv
-*.mov
-*.wmv
+# *.mp4
+# *.tiff
+# *.avi
+# *.flv
+# *.mov
+# *.wmv
+# *.mkv
+# *.csv
+# *.xlsx
+# *.json
+# *.xml
+# *.md
+# *.zip
+# *.7z
+# *.jpg
+# *.ipynb
+# *.parquet
+# *.pqt
+# *.docx
+# *.doc
+# *.pdf
+# *.ppt
+# *.pptx
+# *.webm
 
+# git lfs track "*.mkv" "*.csv" "*.xlsx" "*.json" "*.xml" "*.md" "*.zip" "*.7z" "*.jpg" "*.ipynb" "*.parquet" "*.pqt" "*.docx" "*.doc" "*.pdf" "*.ppt" "*.pptx" "*.webm"
 # See https://docs.github.com/get-started/getting-started-with-git/ignoring-files for more about ignoring files.
 
 # Compiled output

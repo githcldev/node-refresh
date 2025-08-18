@@ -1,1 +1,3 @@
-﻿<?xml version = "1.0" encoding = "UTF-8" ?><HeaderFooterSettings version = "8.0"><Font name="Menlo" type="TrueType" size="8.0"/><Color r="0.0" g="0.0" b="0.0"/><Margin left="43.2004" right="72.0" top="36.0" bottom="19.4403"/><Appearance fixedprint="0" shrink="0"/><PageRange odd="0" even="1" start="-1" end="-1"/><Page offset = "0"><PageIndex format="1"/></Page><Date><Month format="1"/>/<Day format="1"/><Year format="0"/></Date><Header><Left></Left><Center></Center><Right></Right></Header><Footer><Left><Page offset = "0"><PageIndex format="1"/></Page></Left><Center></Center><Right></Right></Footer></HeaderFooterSettings>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4af86df686f742434bad3aa5765b4d4170949e0adb1c0f29997bc1d54192235
+size 629
