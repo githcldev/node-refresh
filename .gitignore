@@ -106,8 +106,6 @@ yarn-error.log
 .DS_Store
 Thumbs.db
 
-
-
 # db files
 **/.parquet
 **/nyt2.json
