@@ -112,5 +112,5 @@ Thumbs.db
 **/.parquet
 **/nyt2.json
 
-
+**/local_prac_dev_env/**
 
