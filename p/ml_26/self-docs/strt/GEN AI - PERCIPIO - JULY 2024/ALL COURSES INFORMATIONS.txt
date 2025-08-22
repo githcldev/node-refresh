@@ -1,0 +1,52 @@
+Course Name	Item ID/Content UUID
+*An Introduction to Generative AI Concepts: dw
+	565d8b52-75b0-48ad-b9dd-1aa7026353d9
+*Getting Started with Large Language Models (LLMs): d
+	681216d8-e14c-4117-b640-c9f44260829c
+Generative AI Fundamentals: databricks.com
+	66aa7fb5-c0a3-4e34-ac4f-541821c45a49
+	https://hclcontent.percipio.com/linked-contents/66aa7fb5-c0a3-4e34-ac4f-541821c45a49/landing
+	https://www.databricks.com/learn/training/generative-ai-fundamentals-accreditation#data-video
+Google Cloud generative AI training resources: cloud.google.com
+	60f4c122-7019-4f7f-871b-4c30ba2b369b
+	https://hclcontent.percipio.com/linked-contents/60f4c122-7019-4f7f-871b-4c30ba2b369b/landing
+	https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources
+*ChatGPT Prompt Engineering Examples & Use Cases: d
+	bf755326-7634-4a99-bef3-c968ea4b001c
+*ChatGPT & Its Practical Use Cases: d
+	114f96ff-e355-4339-b925-f150bc2e5181
+The History of Artificial Intelligence: dc
+	4a5da9eb-c7b5-472d-a9c5-b511f7a2f340
+	https://hclcontent.percipio.com/videos/4a5da9eb-c7b5-472d-a9c5-b511f7a2f340
+*Artificial Intelligence: Types of Artificial Intelligence: d
+	657466c1-b793-4756-ba0f-67537a035628
+*Fundamentals of AI : Artificial Intelligence and Machine Learning: d
+	7b4e6fac-80b2-44f0-9c54-4d655c476b5e
+Introduction to Deep Learning and Neural Networks: d
+	9edb1273-e990-4799-8c51-53fc0dfef3e1
+*Introduction to GitHub Copilot: microsoft learn
+	4c3c1458-e8c7-4096-a3bb-d63c9fbd41c3
+	https://hclcontent.percipio.com/linked-contents/4c3c1458-e8c7-4096-a3bb-d63c9fbd41c3/landing
+	https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot
+*Introduction to GitHub Copilot for Business: microsoft learn
+	5b83d248-2a20-4b82-b89a-9ddefad591a6
+	https://hclcontent.percipio.com/linked-contents/5b83d248-2a20-4b82-b89a-9ddefad591a6/landing
+	https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-for-business
+*Introduction to prompt engineering with GitHub Copilot: microsoft learn
+	2ac76c05-1cf3-4829-9880-3847af5915aa
+	https://hclcontent.percipio.com/linked-contents/2ac76c05-1cf3-4829-9880-3847af5915aa/landing
+	https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot
+*Using GitHub Copilot with Python: microsoft learn
+	4634ba2c-faf1-4547-ac6f-7a57baaacbcd
+	https://hclcontent.percipio.com/linked-contents/4634ba2c-faf1-4547-ac6f-7a57baaacbcd/landing
+	https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python
+*Using GitHub Copilot with JavaScript: microsoft learn
+	7829fd3a-95f7-460e-81d0-d66d0726dbbc
+	https://hclcontent.percipio.com/linked-contents/7829fd3a-95f7-460e-81d0-d66d0726dbbc/landing
+	https://learn.microsoft.com/en-us/training/modules/introduction-copilot-javascript
+*Google Cloud generative AI training resources: cloud.google.com
+	60f4c122-7019-4f7f-871b-4c30ba2b369b
+	https://hclcontent.percipio.com/linked-contents/60f4c122-7019-4f7f-871b-4c30ba2b369b/landing
+	https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources
+
+https://www.pinecone.io/learn/retrieval-augmented-generation/	Self-learning
