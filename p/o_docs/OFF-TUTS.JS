@@ -1,4 +1,16 @@
-
+. explorative data analysis + data clean, wrangle, sanitize, visualize,  {
+	EDA Exploratory Data Analysis - making pretty charts			
+	Cleaning messy data and making chart is 80% of ml engineer work		
+		Data Distributions
+		Missing Data, blank values, invalid dates
+		Outliers
+		Correlation
+		Patterns
+		Data Types
+		Data Visualization
+		Data Quality
+		Data Auditing
+}
 . devops + azure pipelines + data factory + databricks + python + spark + hdfs + OUTPUT_DEST {
 	. Azure Data Factory {
 P:\local\hcl-percipio\19-7-2025-a
