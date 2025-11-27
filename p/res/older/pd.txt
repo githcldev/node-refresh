@@ -1,0 +1,560 @@
+FREQUENTLY ASKED QUESTIONS (FAQs)
+
+
+1.	What is Provident Fund (PF) and Employees’ Pension Scheme (EPS)? 
+These are statutory scheme governed under provisions of Employees Provident Fund and Misc. Provisions Scheme, 1952 and Employees’ Pension Scheme, 1995 (EPS) respectively. It is mandatory for all employees to contribute to PF and EPS from date of joining.
+
+2.	Who maintains Provident Fund for HCLT? 
+HCLT is having its own Trust namely “Hindustan Instruments Limited Employees Provident Fund Trust” which is notified exempted Trust by Government of India. PF accumulations for HCLT and Group company employees is maintained in this Trust.
+
+3.	Infra and HCL Infosystems have independent / separate PF Trusts:  SPOC for HCL Infosystems Virender Kumar Pasricha. His email ID is vip@hcl.com 
+
+4.	How are contributions for PF and Employees’ Pension Scheme calculated?
+
+	Employee contributes an amount, equivalent to 12% of basic salary from his/her monthly salary
+	While HCLT matches same rate of contribution of 12% (mentioned as part of CTC in compensation letter issued by HR) and as statutory provision, amount is distributed as follows:
+A.	For domestic employees (includes onsite posted employees in Social Security Agreement Countries who have filled COC (Certificate of Coverage) - 8.33% of basic pay subject to maximum of Rs.1250/- is contributed to Employee Pension Scheme (EPS). EPS is remitted to Regional Provident Fund Commissioner (RPFC), Gurgaon (Haryana) on monthly basis. **
+B.	For offshore employees, holding other than Indian passport, EPS for such employees is delimited to 8.33% of basic pay and is not capped to Rs. 1,250/-, unlike domestic employees
+C.	Balance 3.67% (12% - 8.33% or applicable percentage) is credited to employees PF account and is visible in PF statement. 
+
+**Recent Supreme Court judgment allowing employees to increase EPS contributions will be applicable only when Government of India amends Employee’s Pension Scheme, 1995 and publishes amendments through Gazette notification. This is still awaited. Employee communication will be released as & when changes are enabled by Employees PF Organization
+  
+5.	Can some additional voluntary contributions (VPF) be made by employees?
+
+•	Yes, employees are voluntarily allowed to contribute to the fund upto 8% of Basic pay, subject to approval from trustees of the Trust. 
+•	Contributions can be made from 1st day of current calendar month for application received on or before 25th day of that month, no retrospective recovery can be made.
+•	Employee is having option to stop VPF recovery at any point of time subject to above referred timelines
+•	HCLT is under no obligation to match such voluntary contribution(s).
+•	VPF contributions qualify for income tax rebate u/s 80C, subject to maximum defined ceiling. 
+•	Start/stop of VPF can be applied online in ESS application forming part of myHCL. 
+•	VPF cannot be withdrawn at any given period of time except in case of conditions laid down at below mentioned point 13.   
+•	If onsite posted employees in SSA (Social Security Agreement) Countries are unable to access myhcl/view online VPF functionality in ESS, they can submit soft copy of signed VPF form get it scanned in ESS and mjravi@hcl.com.  
+ 
+6.	How PF & Pension numbers are generated and how to read these numbers? 
+Upon joining, every employee is allotted a unique PF number which is displayed on the face of online PF statement available in ESS. 
+
+Pension number is allocated by Employees PF Organization post start of UAN (Universal Account Number) & is available under the head “EPFO No” on the face of PF statement.  
+
+Contributions made during service tenure at HCLT and past period PF transfer, if any are controlled by these unique PF and Pension numbers, which employee/s need to declare in their PF transfer form both at the time of joining HCLT or even post separation from HCLT. 
+
+7.	How to read PF and Pension/UAN number?
+A prefix of GN/GGN/5572 is required against the numeric PF and Pension number appearing on the face of pay-slip and PF statement, thereby complete PF and Pension number will be like GN/GGN/5572/12345 & GN/GGN/5572/23456.
+
+	GN in above classifies region of PF coverage i.e. Haryana
+	GGN specifies PF compliance region for HCLT, which is Gurgaon
+	5572 specifies, unique code allotted to HCLT by PF authorities
+	12345 is the unique PF number allotted to employee by HCLT and 
+	23456 is the unique Pension number allotted by HCLT to employee – UAN (Universal Account Number) allotted by RPFC will replicate pension number in due course of time.   
+	Region Code: GN
+	Office Code: GGN
+	Establishment ID: 5572
+	Extension: 000
+	Account #: (Enter your Pension no/EPFO no. from PF Statement)
+
+8.	Where can I view my PF statement? 
+Online PF statement of all contributing employees in HCLT’s PF Trust is available in ESS (Employee Self Service) forming part of myhcl. PF statement is refreshed by 25th of every calendar month.
+
+9.	Can I view my PF statement in EPFO (Employees PF Organization) portal? 
+No, PF statement in case of HCLT can only be viewed in ESS – refer point 6 above
+ 
+10.	What does PF statement include? It includes:
+
+	Employee specific information e.g. name, father/spouse name, date of birth, date of joining, date of PF membership, nominee details, Employee ID, PF & Pension number. All referred fields are based on employee declaration at the time of onboarding HCLT except PF and Pension numbers which are provided by HCLT/PF Office.
+
+	Cumulative opening balance as of end of previous month (not applicable for new joiners). Own and HCLT’s share of contributions (except pension contributions) are separately reflected in the statement
+
+	PF transfer/s (wherever applicable) credited in saving bank account of PF Trust during last calendar month – auto intimation generated by PF portal on PF transfer is for employee information purpose only. Credit is passed to employees PF statement only on cheque realization/credit in saving bank account of PF trust or NEFT receipt date. 
+
+	While updating PF transfer amount received from previous organization in HCLT’s PF statement, same is split between employee and employer contribution in the ratio which is declared by previous employer in statutorily provided “Annexure – K”
+
+	Company’s contribution towards PF, which is differential of 12% minus EPS which is 8.33% of basic (subject to maximum ceiling of Rs.1250/-).
+
+	Provisional interest upto last calendar month – this is subject to interest notified by Ministry of Labour/Finance – Government of India.
+
+	Last month’s salary PF deductions
+
+	Minus PF loans/withdrawals during last calendar month
+ 
+11.	What are the benefits of Pension contributions? 
+Employees are eligible to draw pension upon retirement subject to fulfilling minimum 50 years of age and 10 years of service as member of pension scheme. 
+
+Employees who don’t fulfill above criteria can withdraw pension contributions, provided their service is more than 6 months. PF Office allows such withdrawals which are approximately equivalent to actual contributed amount by employee.
+
+Pension under Employee’s pension scheme, 1995 is regulated by PF Organization for all Establishments in India. 
+
+On change in employment, if an employee applies for PF transfer in mandatory Form-13, though PF gets transferred to the present organization through cheque or NEFT, but no physical money is transferred for pension – in this case Pension service records mentioned on the face of ‘Annexure K’ provided by PF Trust or Regional PF Commissioner of previous organization is evidence of continuity of pension service in EPFO records.
+
+
+
+
+
+12.	Do we get separate Pension Statement also? 
+Pension in case of HCLT, is maintained at Regional PF Commissioner, Gurgaon. PF office doesn’t provide any separate pension statement. Otherwise difference between employees and employer contribution appearing in PF statement under ESS is the pension amount 
+
+13.	Can I view my PF statement if, I am deputed onsite on long term assignment? 
+PF statement is available for active employees whose payroll is run in India and that includes onsite employees who had filled/ hold COC (Certificate of Coverage) and posted in Social Security Agreement Countries. 
+
+PF statement for rest of on-site employee(s) is available offline and can be provided on demand basis. Request can be raised through SSD.	
+
+14.	Can I download my PF Statement in PDF or any other document? 
+PF statement is available online in ESS application forming part of MYHCL domain. PF statement can be downloaded in PDF format only. 
+
+15.	What is the process for transfer of PF accumulations from previous Employer to current PF account with HCLT?	
+If the Previous Organization was held by RPFC Office and you had an UAN # then do apply for your PF transfer from the EPFO portal.
+
+If the Previous Organization was held by PF TRUST, then you have to fill the hard copy of form 13 and send it to us for attestation and then submit it to RPFC office. 
+
+In case you are not a Pension member in HCL then do fill the hard copy of form 13 send it to us for further process.
+
+PF office has implemented facility for employees for PF transfer online through EPFO site (www.epfindia.gov.in). Employee needs to fill online forms at Online Transfer Claim Portal (OTCP) under Employee login at epfo site using HCL Pension no available in PF statement & send the signed hard copies of PF forms to PF Team. Please Go to
+ 
+www.epfindia.gov.in ---- For Members --- Online Transfer Claim Portal ----Register------ login ----Click Transfer Request --- Print out to be submitted to Concerned Employer
+ 
+Please note, if there is any error while raising PF Transfer or facing any hindrance while completing the request then do share the print out of the error/message along with the manual form 13 so that we can get the same attested and submit it to RPFC office for further processing. 
+
+	In case of issues in filling online forms for PF transfer from previous employer to HCL, employee can submit 2 signed hard copies of Form-13 to PF Team for processing.
+ 		 
+
+
+	Employee needs to fill Form-13 & submit the signed forms to PF Team.
+	PF team will process the forms & dispatch the signed forms to dealing RPFC/Trust & request them to transfer past period PF accumulation. 
+	An auto mailer confirming date of dispatch will be received by employee on completion of transfer-in dispatch formalities.
+	Dealing RPFC/Trust will transfer past period accumulation either through Cheque or NEFT.
+	On receipt of money by Trust, amount is credited to PF account of respective employee with effect from the date on cheque encashment date and the interest accordingly is provided on this transferred money as per PF rule.
+	On receipt of money an auto mailer confirming receipt of money is sent to employee
+	Form-13 is attached above.
+
+
+Note: 
+•	The onus to transfer past period PF accumulations rests with previous employer/RPFC or the dealing Trust with whom previous employer was dealing, HCLT has no control on the working of previous employer, dealing RPFC/Trust. Accordingly, employee(s) are requested to follow up with their previous employer after receipt of auto intimation from our desk, that Form -13 has been sent to Regional PF Commissioner/Trust (as the case might be)
+
+•	By default, based on employee declaration provided on the face of Form 13, such form is sent to dealing Regional PF Commissioner, who is the custodian of PF money and not to previous employer
+
+•	In case past employer had trust, then the forms are sent directly to the dealing Trust.
+
+16.	I have got confirmation that past PF got transferred to HCLT but same is not appearing in the online PF statement in ESS, why so? 
+PF Trust of HCL Technologies requires mandatory Annexure K issued by dealing Regional Provident Fund Commissioner or PF Trust of previous employer. 
+
+Annexure K carries past employment details and electronically transferred amount to HCLT PF Trust. Without this document HCLT can neither relate on the exact transferred value nor benefit of past service can be updated in PF history of employee.
+
+You need to arrange the Annexure K from the PF office or alternately raise grievance in EPFO portal seeking this information and share soft copy of Annexure K by raising a SSD for accounting of PF fund transferred into HCL PF Trust bank account.
+
+She will in return let you know by when the PF Transfer amount will be reflecting in the PF Statement for you.
+
+ 
+17.	What will be status of my PF account in case of Inter-Company transfer(s)? 
+It is mandatory for employees to fill Form-13 (in triplicate) and provide signed hard copy to the transferee Company’s PF SPOC upon getting transferred from HCLT (includes BPO – all entities except SSB & IOMC) to Comnet / HCL Infosystems or vice-a-versa for enabling transfer of their PF accumulations and pension service records to their current PF/Pension account. 
+
+This is necessitated to maintain continuity in PF membership and one PF/Pension account across all entities.
+ 
+
+18.	Is there any escalation model available on non-transfer of PF/Pension from Regional PF Office? 
+Yes, you can raise grievance by logging in www.epfindia.com, by following below mentioned steps:
+	Click on EPFiGMS  Register grievance  select status PF member State code (refer above mentioned point 5) first number as explained at point 5 Establishment code (second number of point 5  Account no. (third number of point 5). 
+	Select Regional PF Office which has to initiate PF transfer and 
+	Follow remaining instructions provided in the site.
+	You will receive confirmation on registering of the grievance.
+
+19.	While in service, can PF be withdrawn for purchase of plot/house/flat, funding of child education, marriage of self and dependent(s) etc: 
+Yes, withdrawal is permitted in such circumstances, subject to meeting of certain eligibility criterion. Broad guidelines are summarized in appended document. PF loan application is available at ES for further assistance in this regard.
+ 
+PF loan application and conditions are enclosed.
+ 		 
+
+20.	What is the process for transfer/Withdrawal of PF accumulations from HCL to current PF account with new employer?
+
+PF TRANSFER OUT PROCESS: Ex-employee needs to contact current employer to initiate PF transfer request from HCL to new employer’s PF Trust/RPFC. Ex-employee would require to upload Form-13 duly attested by current employer in separation portal at link given below:
+
+Link: (https://wf4.myhcl.com/MySeparation/Login/Ex-HCLitesLogin.aspx)
+
+Do use, internet explorer while using the above link from a laptop/desktop.
+ 
+*PF Transfer out process is total paperless process and does not require hard copies to be sent to us for processing. Please find below HCL Trust details for ready reference:
+
+	Name of the Establishment: HCL Technologies Ltd
+	Address of the Establishment: Lotus Business Park, Tower B, 3rd Floor, Sector 127, Noida – 201304.
+	PF A/C No. held by: Hindustan Instrument Ltd. EPF Trust
+	Name of the Trust: Hindustan Instrument Ltd. EPF Trust
+	PF & Pension A/C details- refer to your pay slip
+
+Please check the PF Portal/auto email sent to your email. It is after the status is changed from “submitted” to “Under Process” from that date it would take 20 working days to get the PF amount transferred to your current Organization’s PF office’s bank account.
+
+PENSION Transfer Out: The process of getting your Pension service period transferred to your current establishment has been changed from a paper process to online process, there is no need to send Form 10C in hard copy to EPFO for pension transfer/withdrawal. You can apply for it online at EPFO portal if you have UAN linked with your Pension account number. Sharing the below steps for your reference:
+
+www.epfindia.gov.in ---- For Employees --- Member UAN/Online Services ---- Activate your UAN No ------login (UAN ID & Password)----Online Services----Claim(Form-31,19, 10C& 10D).
+
+To check the status of Pension withdrawal after 15 working days, you need to follow below steps: 
+
+Go to www.epfindia.gov.in ---- For Employees --- Member UAN/Online Services ---- Activate your UAN No ------login (UAN ID & Password)----Online Services----Track Claim Status.
+
+Note: Your KYC should be updated in the EPFO Portal.
+
+PF WITHDRAWAL: You can apply for PF withdrawal online in PF portal, after expiry of mandated period of 60 days from your date of separation from HCLT. The link for submitting PF withdrawal request online will be active at HCL Separation Portal after 60 days from your last working in day in HCL. Login ID and other credentials are available in mail sent from HCL for Separation Portal.
+
+Link: (https://wf4.myhcl.com/MySeparation/Login/Ex-HCLitesLogin.aspx)
+
+Do use, internet explorer while using the above link from a laptop/desktop.
+
+*PF Transfer out process is total paperless process and does not require hard copies to be sent to us for processing. Please find below HCL Trust details for ready reference:
+
+01.	Name of the Establishment: HCL Technologies Ltd
+02.	Address of the Establishment: Lotus Business Park, Tower B, 3rd Floor, Sector 127, Noida – 201304.
+03.	PF A/C No. held by: Hindustan Instrument Ltd. EPF Trust
+04.	Name of the Trust: Hindustan Instrument Ltd .EPF Trust
+05.	PF & Pension A/C details- refer to your pay slip
+Kindly read and understand the guidelines provided in PF Portal before uploading PF withdrawal request along with required documents.
+
+Please check the PF Portal/auto email sent to your email. It is after the status is changed from “submitted” to “Under Process” from that date it would take 20 working days to get the PF amount transferred to your current Organization’s PF office’s bank account.
+
+PENSION WITHDRAWAL: The process of Pension withdrawal has been changed to an online one. Please apply for it online at EPFO portal, sharing below steps to apply online:
+
+01.	www.epfindia.gov.in ---- For Employees --- Member UAN/Online Services ---- Activate your UAN No ------login (UAN ID & Password)----Online Services----Claim(Form-31,19, 10C& 10D).
+02.	Check the status of Pension withdrawal after 15 working days, go to www.epfindia.gov.in ---- For Employees --- Member UAN/Online Services ---- Activate your UAN No ------login (UAN ID & Password)----Online Services----Track Claim Status.
+
+Note: Your KYC should be updated in the EPFO Portal.
+
+Offline PF withdrawal process:
+
+Online process does not work for employees separated before 2012 or for employees who have not initiated EMS through EMS application. Please share Form-19 to Sohan Singh, HCL Technologies Ltd, PF Department, Lotus Business Park, Tower B, 3rd Floor, Sector 127, Noida- 201304. Please submit the forms with the following documents:
+01.	Blank cancelled cheque (name pre-printed) 
+02.	Photocopy of your PAN card
+03.	Copy of Aadhar card
+
+Please put signatures on all documents enclosed with the Form & on Form as well wherever required, especially on cancelled cheque (mandatory). Signature on enclosed documents & Form should not differ.
+ 
+Note: If your service is above 9 years & 6 months in HCL you have to submit following additional documents for pension process. 
+01.	Date of birth proof of employee.
+02.	Family Member/Nominee date of birth proof required
+
+Kindly be informed that the PF Withdrawal will not be applicable if you are working anywhere and contributing to Pension Fund.
+
+*** FYI, as per amendments made by GOI in TDS provisions on PF Withdrawal wef 01.06.2015, if the accumulated PF balance is more than or equal to Rs. 50,000/- with service less than 5 years: -
+
+	TDS will be deducted @ 10% provided PAN is submitted. If member's income for Assessment year after including PF Accumulation does not fall under taxable slab & 2 copies of Form No. 15G or 15H is submitted, then no TDS shall be deducted.
+	TDS will be deducted @ maximum marginal rate (i.e. 34.608%) if a member fails to submit PAN (and no Form No 15G or 15H).
+	If your PF Accumulation is less than Rs. 50000 then no Tax will be deductible. 
+	If your period of contribution to PF Account is more than 5 years then no tax will be deductible.
+Sample form are provided hereunder – these are just for reference; employees are not required to fill or submit any form:
+      	  		 
+ 	   		 
+
+21.	Can PF withdrawal be applied before completion 60 days from Last Working Day?
+
+Yes, PF withdrawal can be applied before completion of 60 days from Last Working Day. This provision can be utilized by employees, in case of Retirement & where employee is moving abroad for permanent settlement. If employee is moving abroad for permanent settlement, then employee needs to attach below 3 additional documents for PF withdrawal along with forms & other supporting documents.
+
+	Copy of Passport
+	Copy of Air-ticket
+	Copy of VISA. Pls note VISA shall be valid for minimum period of 36 months from Last Working Day.
+
+
+
+22.	Can I withdraw PF accumulations on GEO/onsite posting/transfer?
+
+PF accumulations can be withdrawn only upon separation from HCLT. Transfer/Posting of any type doesn’t qualify for PF withdrawal. Withdrawal process is explained above.
+
+23.	What is nomination form and why it is required?
+
+	Nomination in Form 2 is a must for all employees as properly filled form ensures that nominee / beneficiary to PF and Pension dues are not put to hardship in case of any eventuality happening to the employee.
+
+	Instances are quite rampart, where deceased employees had not filled Form 2 or filled improper forms, thereby nominee(s)/beneficiary(s) facing hardship on non-settlement of legitimate PF/Pension dues 
+
+	Instructions forming part of Form 2 need to be read carefully before filling the form and it is compulsory for bachelor employees to revise Form 2 after marriage
+
+	To supplement available information on the name of nominee(s), information is provided on the face of PF statement, which can be referred for refreshing the form, wherever change is required.
+
+	Form 2 is attached, hard copy may be filled in duplicate and submitted with Track-1 of ES, a parallel update in ESS is also required.
+
+	Employee(s) can view changed nomination status in quarterly cycle on the face of their PF statements.
+
+ 
+ 
+
+
+
+
+
+
+
+Mobile registration: Please note, we cannot amend the contact details in the EPFO portal as the site is maintained by EPFO team only. Embedded below are the steps for you to check and if the same is not working then contact the customer care of EPFO site.
+
+ 
+
+PF and Pension no. confusion: HCL has its own Trust. Please be informed that PF Statement will have the accurate information about your PF and Pension data.
+
+EPFO site will only capture your Pension related information as the RPFC only keeps an account of Pension for HCL employees and this is because HCL maintains its own PF trust wherein the employees PF gets accumulated in the "IN house Trust".
+
+EPFO no. is your Pension no.
+
+PF Trust Account no. is your PF account no.
+
+These will reflect in Pf Statement.
+
+Note: Do not check payslip for PF related query.
+
+
+PFB the trust details: 
+01.	Name of the Establishment: HCL Technologies Ltd
+02.	Address of the Establishment: Lotus Business Park, Tower B, 3rd Floor, Sector 127, Noida- 201304
+03.	PF A/C No. held by: Hindustan Instrument Ltd. EPF Trust
+04.	Name of the Trust: Hindustan Instrument Ltd .EPF Trust
+05.	PF & Pension A/C details- refer to your pay slip
+
+
+
+
+Passbook:  HCL has its own PF Trust and they maintain the employees PF account which can be viewed only from ESS portal under PF statement. Passbook in EPFO will not reflect the PF Statement.
+
+Why you are not a Pension Member?
+Kindly note, you are not a Pension holder as you had filled form 11 during Induction which had exempted you from being a Pension Holder and RPFC only keeps a track of Pension holders of HCL employees. UAN is only generated for Pension holders of HCL employees. To summarize it all you will not be getting a UAN # from HCL.
+
+UAN related information: Kindly be informed that your name/DOB/Gender format has to match with the EPFO portals and KYC data.
+
+To get the name updated in the EPFO kindly modify the details in the EPFO by login with UAN # and Password. If this gives error, then send a print out of the error message along with the Joint Declaration.
+
+Please be informed that you need to fill the Joint Declaration to get the same amended in the EPFO portal by the RPFC officers.
+
+Please be informed that you need to send us the Joint declaration form and the supportive documents (Aadhar card copy, PAN card copy and 10th Certificate) for the correction. We will get the same acknowledged and send it to RPFC office so that the Officers can make the amendments in the EPFO portal.
+
+Please provide your SAP ID, UAN no. and Pension no. in the form and send it to below address:
+
+Sohan Singh, HCL Technologies Ltd, PF Department, Lotus Business Park, Tower B, 3rd Floor, Sector 127, Noida- 201304.
+
+How to change/correct father’s name in EPFO Portal:
+Please be informed that you need to fill the Joint Declaration to get the same amended in the EPFO portal by the RPFC officers.
+
+Please be informed that you need to send us the Joint declaration form and the supportive documents (Aadhar card copy, PAN card copy and 10th Certificate) for the correction.
+We will get the same acknowledged and send it to RPFC office so that the Officers can make the amendments in the EPFO portal. Please provide your SAP ID, UAN no. and Pension no. in the form and send it to below address:
+
+Sohan Singh, HCL Technologies Ltd, PF Department, Lotus Business Park, Tower B, 3rd Floor, Sector 127, Noida- 201304. 
+
+
+ 
+KYC initial Process:
+
+You need to visit EPFO portal and raise the request after activating your UAN and UAN related KYC in EPFO portal itself.
+
+After login in one needs to use the second option” Manage” and from the dropdown select KYC to update the KYC details.
+
+It is within 3 days of your KYC update in EPFO portal that the approval will be shared.
+
+COC Process
+
+1-What is COC?
+
+COC is Certificate of Coverage, which is mandated for every employee to apply before getting posted to Social Security Agreement Country (SSA). COC entitles employee to get exemption for contributing to Social Security in Host Country & maintain continuity in Indian PF. 
+
+COC is applicable to all employees who get posted from India to SSA & who hold Indian Passport  
+
+2-How to apply for COC?
+
+Guidelines to fill COC is provided hereunder, which has country wise and column wise details available.
+ 
+
+Kindly read the guidelines carefully and adhere the same for avoidance of rejection / delay in approving COC’s
+
+It is mandated by Employees PF Organization who is the regulator in this case - that COC application should be applied at least one month before actual date of travel. These instructions invariably need to be adhered 
+
+
+3-When is COC is applicable?
+
+When employee is posted in any country with which Government of India has Signed Social Security agreement. Kindly check Country list which is provided at point 2 above
+
+4-What is the benefit of COC?
+
+Entitles employee to maintain continuity in Indian PF despite posted abroad and get exemption for contributing to Host Country’s Social security 
+
+5- How many COC an employee can have?
+
+Employee can have only one Country COC certificate at a time. If employee is moving from one GEO to another then previous COC is required to be surrendered with EPFO. This intimation needs to be sent to PF section on immediate basis directly through email to ManushriS@hcl.com before applying for fresh COC in new location. 
+
+6-What is the process for extension?
+
+Employee can apply for extension only two months before expiry of previous COC. Guidelines remain same as mentioned at point 2 above
+
+7-What is the process for COC SURRENDER? 
+
+Once employee returns from onsite, employee is required to intimate PF team - ManushriS@hcl.com for cancellation/Surrender of the COC.  
+
+8- Who is the spoc for COC in HCLT  - Manushri Srivastava (ManushriS@hcl.com) with escalation to adarshvs@hcl.com
+
+
+SUPERANNUATION
+
+01. What is Superannuation(SA) Benefit?
+It is a voluntary pension plan catering to the retirement needs of the employee to ensure that pension is received by the member / employee after his retirement / leaving service.
+
+02. What is the objective of an SA scheme?
+
+To build up a Corpus during the lifetime of employment that could be utilized to pay pension to employees on their retirement or on their leaving service.
+ 
+03. How is Superannuation Scheme better than ALSA
+There is a unique pre-tax advantage in the scheme wherein the contribution gets deducted directly from ACTC & thereby brings the Taxable Income down subject to ceilings specified under the Income tax act. (See Illustration annexed on the last page). In addition, there are Investment benefits & since it’s routed through approved HCL trust, the income is also exempt. The corpus builds up in a systematic way due to power of compounding with the Investment returns.
+ 
+04. How can Employee become a member of the Scheme?
+Scheme is applicable to employees who are in E4 & above band. Is enabled online, employees can choose to become a member by selecting option available in “Flexible compensation” under Compensation
+
+05. Can I contribute retrospectively?
+
+Members can contribute prospectively i.e. from opting calendar month only. Retrospective contributions to Superannuation fund will not be accepted.
+ 
+
+06. How does the Scheme work?
+
+The scheme works in two phases; the first phase is accumulation phase i.e. contributions made during the service with HCLT & the second is the Annuity phase or Decumulation phase (post retirement or separation). 
+
+
+
+07. What is meant by accumulation period?
+It is the period during which the contributions are made and is generally the working period of an employee. The members contribute upto 15% of the basic salary or Rs. 1.50 Lacs/p.a. to the Trust, Trust invests it in certain approved Investment categories.  
+
+08. What is meant by decumulation/pay-off period? 
+
+It is the period during which the benefits are payable, which starts either on the date the member leaves the fund or the Normal Retirement Date.
+ 
+
+09. What are the benefits under the scheme & when are they payable?
+ 
+The benefits are payable as per the provisions mentioned in the Trust Documents. The benefits are as stated below: - On Separation: - 
+
+(a) Option to commute 1/3rd of the accumulated balance subject to 1/3rd prevailing tax laws & balance 2/3rd by way of annuity payment, 
+
+(b)Transfer your equitable interest to approved SA scheme of new Employer, 
+
+(c) Leave the fund in SA scheme of the Trust – depending upon the option exercised before separation & purchase annuity on reaching normal retirement date
+
+On Retirement: - Commute upto 1/3rd tax free & balance is payable in the form of Pensions else whole amount can be utilized for claiming annuity payment.
+
+On Death: - 100% tax free commutation by beneficiary or purchase annuity if required.
+
+ 
+
+10. After separation from HCL can I still contribute? 
+No, after separation future contributions cannot be accepted. However past service contributions can stay invested & grow.
+ 
+
+11. Is there a maximum ceiling imposed on contribution by statute? It will be 15% of basic pay with maximum annual ceiling of Rs. 1.50 Lacs/per annum 
+ 
+
+12.What does equitable interest transfer mean and how is it arrived at? Equitable Interest transfer refers to transfer of Superannuation accumulations to another    similar fund. 
+ 
+
+13. Will there be an Individual Account maintained?
+Yes, each member will be provided access to online SAF statement, which s(he) would be able to view through web enabled services provided by Trust appointed fund manager/s
+
+ 
+
+14. Can employees voluntarily contribute to enhance their personal retirement kitty and if so, what are the tax benefits?
+
+Yes, the member has the option to voluntarily contribute to the fund and such contributions will also be eligible for rebate under Section 80C of the Income Tax Act subject to overall savings limit of Rs. 1 Lac.
+ 
+
+15. What are the various Investment options available?
+
+All first time enrollers will be able to contribute in ‘Traditional Plan’ which entails employees to earn guaranteed return on SAF contributions – applicable rate for 2019-20 & 2020-21 will be 8.25%.
+
+For existing contributing employees who had initially enrolled under ULIP (Unit Linked Investment Plan), available options are as follows. Employees have the option to switch their contributions between any of the funds or even exit from ULIP to Traditional Plan 
+  
+
+Fund Option	Asset Allocation	Objective
+Short Term Debt Plan	100% Money Market, Debt Instruments	Provide suitable returns through low risk investments debt and money market instruments while attempting to protect the capital deployed in the fund
+Debt Plan	Max 100% Debt instruments
+Max 25% Money market	Generate a steady accumulation of income through investment in various fixed income securities
+Balanced Plan	Min 80% Debt & debt related Instruments
+Max 20% Equity	Generate a good mix of long-term capital appreciation along with current income through investment in equity as well as fixed income instruments in appropriate proportions depending on market conditions prevalent from time to time
+Growth Plan	Min 40% Debt & debt related instruments
+Max 60% Equity	Provide long-term capital appreciation through investments primarily in equity and equity-related instruments
+Traditional Plan	Decided by fund Manager	Birla Sunlife is managing SAF funds and are providing following assured returns:
+2014-15 – 9.35%
+2015-16 – 9.35%
+2016-17 – 9.25%
+
+
+
+ 
+
+16. What is the switch facility in the Scheme? 
+Employees can switch from one fund to another anytime during the year, within above mentioned plans. There are unlimited numbers of switches allowed to each contributing member without any cost to employee. 
+
+Switch between ‘Traditional Plan’ and Unit Linked plan is currently not available 
+ 
+
+17. Can I switch between the available options & What is the process for Switching?
+Yes, you can switch between the available options at any point of time. By default, the trustees would park the contributions in the safest option which is Short Term Debt fund. You can switch the funds to other alternative options after sending a mail to amitroh@hcl.com. Switch request received before 1 pm will be switched at current date’s NAV and post 1pm, next day’s NAV will be applicable
+ 
+
+18. What is a unit statement? 
+The Contributions would be unitized at prevailing NAV’s on the date of contribution. The recurring contributions will also be unitized & added to the opening unit balance. The statement would reflect the unit allocations for the history of transactions.
+ 
+
+19. What is the frequency at which unit statement is issued to the Employees?
+  
+It can directly be downloaded from the website www.iciciprulife.com at any point of time. Employee also have access to their Superannuation account through individual ID and password provided by ICICI Prudential.
+ 
+
+
+
+
+
+20. What are the different Pension Options available?
+
+Following options are available, which can be purchased from any of the annuity service provider. Currently apart from ICICI Prudential, LIC, HDFC life and Birla Sunlife are some of the Insurers who offer Superannuation complacent annuity policy  
+  
+Annuity Option	Description
+Life Annuity	·   Annuities payable for annuitant’s life
+Life Annuity with return of purchase price	·   Annuities payable for annuitant’s life
+  
+·   Return of original purchase price to beneficiary on annuitant’s death 
+Life Annuity guaranteed for
+·    5 years
+  
+·   10 years
+  
+·   15 years 	·   Annuities payable to annuitant / beneficiary for 5/10/15 years irrespective of the annuitant’s existence
+  
+·   If annuitant lives beyond the stated years,   annuities payable for his/her life
+  
+Joint Life Last survivor	·   Annuities payable to annuitant for life and after death to his/her spouse (if alive) for life
+ 
+Joint Life Last survivor with return of purchase price	·   Annuities payable to annuitant for life and after death to his/her spouse (if alive) for life
+  
+·   Original purchase price returned to beneficiary on spouse’s death
+ 
+
+
+ 
+
+21. Is there a Vesting Age to access the fund on separation? 
+No, there is no vesting age as it’s a voluntary contribution by Employees subject to the Terms of HR issued from time to time.
+ 
+
+22. What is the open market option?
+The Employees have a unique open market option for superannuation. The employees have a choice to buy annuities from any fund manager of choice who has PFRDA (Regulator) approved plan.
+ 
+
+23. How does the claims process take places?
+When a request for payment of benefit in respect of a member is received, the units / invested fund to the credit of the Member’s account shall be withdrawn to determine the amount of benefit, by using the unit value or accumulated fund on the valuation date immediately following the working day on which the request is received from the grantees and accepted at the Fund Managers office. 
+
+ 
+
+24. What are the tax benefits/provisions available when a Trust is set up for providing Superannuation benefit?
+Contributions made towards SAF is reduced from Taxable income of employee for that financial year, thereby tax benefit automatically get passed
+
+25. How do I view my Account on the web?
+You will have a unique User ID & Password. Using the link, you can log-in to your personal Superannuation account. Refer Web user guide for further information on web-enabled services.
+
+26. What are my privileges as a member of Superannuation scheme?
+As a member, one would be able to view the contribution history, switch history, total fund value with unit wise breakup against each fund option. Apart there will be other details like NAV history, portfolio disclosure, and quarterly newsletter. The member will also be able send online request /query/feedback/request.
+
+27. What is the Default Investment by Trustees?
+Yes, its invested in Short Term Debt Fund.
+
+28. What is the claim Settlement process & how much time will it take?
+Duly filled in claim intimation form signed by the trustee(s), mentioning the options available (as per the claim form) is to be forwarded to ICICI Prudential office. The settlement is processed within 4 working days.
+
+
+
+
+
+
+
+
