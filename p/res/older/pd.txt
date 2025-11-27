@@ -1,6 +1,5 @@
 FREQUENTLY ASKED QUESTIONS (FAQs)
 
-
 1.	What is Provident Fund (PF) and Employees’ Pension Scheme (EPS)? 
 These are statutory scheme governed under provisions of Employees Provident Fund and Misc. Provisions Scheme, 1952 and Employees’ Pension Scheme, 1995 (EPS) respectively. It is mandatory for all employees to contribute to PF and EPS from date of joining.
 
@@ -550,11 +549,3 @@ Yes, its invested in Short Term Debt Fund.
 
 28. What is the claim Settlement process & how much time will it take?
 Duly filled in claim intimation form signed by the trustee(s), mentioning the options available (as per the claim form) is to be forwarded to ICICI Prudential office. The settlement is processed within 4 working days.
-
-
-
-
-
-
-
-
