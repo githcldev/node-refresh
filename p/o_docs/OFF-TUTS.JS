@@ -113,3 +113,133 @@ https://www.tutorialspoint.com/python/python_interview_questions.htm
 	}
 }
 
+. databricks_spark vids {
+
+	.youtube {
+. Databricks {
+https://www.youtube.com/@Databricks
+	. dtbrk {}
+	. pyspark {}
+	. sql {}
+}
+. Databricks For Professionals{
+https://www.youtube.com/@DatabricksPro
+	. dtbrk {}
+	. pyspark {}
+	. sql {}
+}
+. Learning Journal {
+https://www.youtube.com/@ScholarNest
+	. dtbrk {}
+	. pyspark {}
+	. sql {}
+}
+. Ease With Data {
+https://www.youtube.com/@easewithdata
+	. dtbrk {}
+	. pyspark {}
+	. sql {}
+}
+. Tech With Yeshwanth {
+https://www.youtube.com/@TechWithYeshwanth/videos
+	. dtbrk {
+Overview of Databricks Workspace Interface: Easy Guide to Get You Started
+https://www.youtube.com/watch?v=eeVr_tOJ2DI
+How to Create a Databricks Workspace with Unity Catalog in Under 10 Minutes? | Step by Step Demo
+https://www.youtube.com/watch?v=jrEL7oqQfl8
+
+Introduction to Databricks Lakehouse: Unifying Data Lakes and Data Warehouses | Lakehouse Paradigm
+https://www.youtube.com/watch?v=rZhWG8HMLkU
+
+
+Getting Started with Apache Spark on Databricks: Key Features & DBFS Explained
+https://www.youtube.com/watch?v=kJe1NHbeXi8
+How to Read Kafka Topics/Streams in Databricks (Spark Streaming)? | Hands-on Demo
+https://www.youtube.com/watch?v=g6OHZSdyoAU
+
+Databricks Compute Options Explained: All-Purpose, Job, Serverless & SQL Warehouses
+https://www.youtube.com/watch?v=_cCGMBd0bgg
+How to Create an All-Purpose (Ad-Hoc) Cluster in Databricks? Hands-on Guide | Databricks Tutorial
+https://www.youtube.com/watch?v=CKYsJUjGla0
+How to Create a Job Cluster in Databricks? When to use a Job Cluster? Databricks Hands-on Demo
+https://www.youtube.com/watch?v=6-ubnSlvD0M
+
+Databricks Architecture Explained in 5 Minutes! (Visual Guide for Beginners)
+https://www.youtube.com/watch?v=JZanMXatZ8Y
+Databricks Medallion Architecture Explained in 2 minutes!
+https://www.youtube.com/watch?v=RjC8LnvZsIc
+
+	}
+	. pyspark {}
+	. sql {}
+}
+. Vijay Gadhave {
+https://www.youtube.com/@Vijay_Gadhave_007/playlists
+	. dtbrk {}
+	. pyspark {}
+	. sql {}
+}
+. DataErudition {
+https://www.youtube.com/@dataerudition/playlists
+	. dtbrk {}
+	. pyspark {}
+	. sql {}
+}
+. Pathfinder Analytics {
+https://www.youtube.com/@pathfinder-analytics/playlists
+	. dtbrk {}
+	. pyspark {}
+	. sql {}
+}
+
+
+
+
+
+	}
+
+
+
+}
+
+. finance {
+
+	. lyn-remain {
+
+2-START	CAPITAL		Financing Your Business
+5-MANAGE	21-FINANCE		Finance Essentials for Small Business
+5-MANAGE	21-FINANCE		Finance Foundations
+5-MANAGE	21-FINANCE		Finance Foundations for Solopreneurs
+5-MANAGE	21-FINANCE		Finance for Non Financial Managers
+5-MANAGE	21-FINANCE		Financial Basics Everyone Should Know
+5-MANAGE	21-FINANCE		Business Financials Explained
+5-MANAGE	21-FINANCE		Finance Strategies for Business Leaders
+5-MANAGE	21-FINANCE		Finance Foundations Risk Management 
+
+5-MANAGE	21-FINANCE		Financial Analysis Introduction to Business Performance Analysis
+5-MANAGE	21-FINANCE		Protecting Profitability by Reducing Financial Risk
+5-MANAGE	21-FINANCE		Running a Profitable Business Understanding Financial Ratios
+
+5-MANAGE	21-FINANCE		Financial Analysis Making Business Projections
+5-MANAGE	21-FINANCE		Forecasting Using Financial Statements
+5-MANAGE	21-FINANCE		Financial Modeling Foundations
+5-MANAGE	21-FINANCE		Financial Modeling and Forecasting Financial Statements
+5-MANAGE	151-LEAN		Lean Technology Strategy Financial Management to Support Business Agility
+
+5-MANAGE	21-FINANCE		Financial Accounting Foundations
+5-MANAGE	21-FINANCE		Financial Accounting Part 1
+5-MANAGE	21-FINANCE		Finance and Accounting Tips
+5-MANAGE	21-FINANCE		Financial Record Keeping
+
+5-MANAGE	21-FINANCE		Behavioral Finance Foundations
+5-MANAGE	21-FINANCE		Corporate Finance Profitability in a Financial Downturn
+5-MANAGE	21-FINANCE		Corporate Finance Foundations
+5-MANAGE	21-FINANCE		Corporate Financial Statement Analysis
+
+CLOUD	SECURITY		Cloud Security Considerations for the Financial Services Industry
+DATA-SCIENCE	PROJECT		The Data Science of Economics, Banking, and Finance, with Barton Poulson
+PYTHON	ML		Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training
+
+	}
+
+}
